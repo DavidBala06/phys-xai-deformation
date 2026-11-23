@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+.data/
+data/
+*.obj
+*.stl
+*.zip
+.DS_Store
+*.pdf
+*.docx
+
+
+# Kilo (local dev tool config)
+.kilo/
